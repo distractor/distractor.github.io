@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -87,6 +87,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.si/citations?user=guGtxmgAAAAJ"
   email            : "jure.slak@ijs.si"
+  email2           : "jure.slak@fmf.uni-lj.si"
   uri              :
   bitbucket        : # "jureslak"
   codepen          :
