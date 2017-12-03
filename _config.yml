@@ -7,13 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jure Slak"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Jure Slak"
+description              : &description "PhD student at Parallel and Distribute systems Laboratory, Jožef Stefan Institute"
+url                      : "https://jureslak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+#  url                      : "http://e6.ijs.si" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#  baseurl                  : "/~jslak" # the subpath of your site, e.g. "/blog"
+repository               : "jureslak/jureslak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,39 +80,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jure Slak"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD researcher at <a href='http://e6.ijs.si/ParallelAndDistributedSystems/' target='_blank'>Parallel and Distributed Systems laboratory</a>, <a href='http://e6.ijs.si' target='_blank'>department E6</a>, <a href='http://ijs.si/' target='_blank'>&raquo;Jožef Stefan&laquo; Institute</a>"
+  location         : "<a href='https://www.google.si/maps/place/Institut+Jožef+Stefan' target='_blank' style='display: inline'>Office S7, &raquo;Jožef Stefan&laquo; Institute,<br>Jamova cesta 39, Ljubljana, Slovenia</a>"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.si/citations?user=guGtxmgAAAAJ"
+  email            : "jure.slak@ijs.si"
   uri              :
-  bitbucket        :
+  bitbucket        : # "jureslak"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "jureslak"
+  google_plus      : # "+JureSlak"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jure-slak-11428662"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "2241000/jureslak" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -221,15 +222,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -249,11 +241,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Ljubljana # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
