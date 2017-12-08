@@ -67,7 +67,7 @@ preparing and grading exams for ∼100 students every year, 10 hours per week.
 Awards and Scholarships
 ------
 
-- Prešeren's award for students (highest award for research thesis or artwork): 2017
+- Prešeren's award (faculty level) for students (highest award for research thesis or artwork): 2017
 - Dean's award: 2013, 2015, 2016, 2017
 - Baron Sigmund Zois von Edelstein Scholarship: 2008 -- 2017
 - Slovenian ACM-ICPC competition in computer programming (captain of a team of 3):

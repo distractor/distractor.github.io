@@ -114,6 +114,11 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
