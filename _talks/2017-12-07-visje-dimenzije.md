@@ -10,7 +10,7 @@ share: false
 ---
 
 A popular lecture in the "I <3 MAT" cycle of popular lectures given at our faculty. The slides (in
-Slovenian) are available [here]({{page.baseurl}}/files/prestavitev_visje_dimenzije.pdf).
+Slovenian) are available [here]({{site.baseurl}}/files/predstavitev_visje_dimenzije.pdf).
 
 <!--
 vim: spell spelllang=en:

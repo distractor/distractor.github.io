@@ -114,6 +114,7 @@ Teaching
 
 Service and leadership
 ------
+- Leader of 2018 Slovenia'a CEOI team
 - Member of committee for high school and student programming contests at ACM Slovenia
 - October 2017 -- present: Member of the student council
 - October 2016 -- October 2017: President of the student council
