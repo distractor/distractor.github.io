@@ -55,8 +55,8 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
-  font-size: $type-size-6;
+  margin-top: 0.5em;
+  font-size: $type-size-5;
 
   & + p {
     text-indent: 0;
@@ -101,6 +101,11 @@
 
   .page__meta {
     margin: 0 0 4px;
+  }
+
+  .archive__item-venue {
+    margin-top: 0.5em;
+    font-size: $type-size-6;
   }
 }
 

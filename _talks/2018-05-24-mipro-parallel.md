@@ -12,9 +12,5 @@ share: false
 A conference talk about a coordinate free implementation of a 
 local strong form method [developed](http://e6.ijs.si/medusa/) in our department.
 
-You can also download the [paper]({{ site.baseurl }}/files/CP_2018_SlakKosec_Mipro.pdf) and the
-[presentation]({{ site.baseurl }}/files/CP_2018_SlakKosec_Mipro_presentation.pdf).
-
-<!--
-vim: spell spelllang=en:
--->
+You can also download the [paper]({{ site.baseurl }}/files/papers/CP_2018_SlakKosec_Mipro.pdf) and the
+[presentation]({{ site.baseurl }}/files/papers/CP_2018_SlakKosec_Mipro_presentation.pdf).
