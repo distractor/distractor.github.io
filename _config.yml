@@ -83,7 +83,7 @@ author:
   name             : "Jure Slak"
   avatar           : "profile.png"
   bio              : "PhD researcher at <a href='http://e6.ijs.si/ParallelAndDistributedSystems/' target='_blank'>Parallel and Distributed Systems laboratory</a>, <a href='http://e6.ijs.si' target='_blank'>department E6</a>, <a href='http://ijs.si/' target='_blank'>&raquo;Jožef Stefan&laquo; Institute</a>"
-  location         : "<a href='https://www.google.si/maps/place/Institut+Jožef+Stefan' target='_blank' style='display: inline'>Office S7, &raquo;Jožef Stefan&laquo; Institute,<br>Jamova cesta 39, Ljubljana, Slovenia</a>"
+  location         : "<a href='https://www.google.si/maps/place/Institut+Jožef+Stefan' target='_blank' style='display: inline'>Office S7,<br> &raquo;Jožef Stefan&laquo; Institute,<br>Jamova cesta 39,<br> Ljubljana, Slovenia</a>"
   employer         :
   googlescholar    : "https://scholar.google.si/citations?user=guGtxmgAAAAJ"
   email            : "jure.slak@ijs.si"
