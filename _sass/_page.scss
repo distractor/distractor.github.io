@@ -32,21 +32,35 @@
       @include full();
     }
 
-    .page__citation {
-      margin-top: 0.5em;
+    a {
+      color: $text-color;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
     }
 
+    section {
+      h2 {
+        margin-top: 0.5em;
+      }
+    }
+
+
+    .page__citation {
+      margin-top: 0.5em;
+      clear: both;
+    }
+    .page__authors {
+      margin-bottom: 0.5em;
+    }
     .page__published-in {
       font-size: 0.9em;
       color: mix(#000, $gray, 25%);
     }
 
-    .page__under-citation {
+    .page__above-citation {
       margin: 0.2em 0 0 0;
-      a {
-        text-decoration: none;
-        margin-right: 1em;
-      }
     }
   }
 }
@@ -59,7 +73,9 @@
   a {
     color: $text-color;
     text-decoration: none;
-
+    &:hover {
+      text-decoration: underline;
+    }
     &.download {
       float: right;
     }

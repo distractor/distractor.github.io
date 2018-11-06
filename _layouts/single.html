@@ -36,25 +36,36 @@ layout: default
 
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p class="page__published-in">Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}{% if page.doi %}, <a href="{{ page.doi }}">DOI &nbsp;<i class="fa fa-external-link"></i></a>{% endif %}. </p>
+        {% elsif page.journal and page.date %}
+          <p class="page__authors"><i class="fa fa-user"></i>&nbsp; {{page.authors}}</a>
+          <p class="page__published-in">Published in <i>{{ page.journal }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}{% if page.doi %},
+          <a href="{{ page.doi }}">DOI &nbsp;<i class="fa fa-external-link"></i></a>{% elsif page.officialurl %},
+          <a href="{{ page.officialurl }}">URL &nbsp;<i class="fa fa-external-link"></i></a>{% endif %}. </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-
-        {% if page.citation and page.paperurl %}
-          <p class="page__citation">Recommended citation: </p><blockquote>{{ page.citation }}</blockquote>
-          <p class="page__under-citation">
-            <a href="{{base_path}}/files/{{ page.paperurl }}">Download preprint &nbsp;<i class="fa fa-download"></i></a>
-          </p>
         {% endif %}
         </header>
       {% endunless %}
 
+      {% if page.localfile %}
+      <p class="page__download">
+        <a href="{{base_path}}/files/{{ page.localfile }}">Download paper &nbsp;<i class="fa fa-download"></i></a>
+      </p>
+      {% endif %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+<!--         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %} -->
       </section>
+
+      {% if page.bibtex %}
+        <p class="page__above-citation">
+          <a href="{{base_path}}/files/{{ page.bibtex }}">BiBTeX &nbsp;<i class="fa fa-quote-left"></i></a>
+        </p>
+      {% endif %}
+      {% if page.citation %}
+        <blockquote class="page__citation">{{ page.citation }}</blockquote>
+      {% endif %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
@@ -63,7 +74,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+<!--       {% if page.share %}{% include social-share.html %}{% endif %} -->
 
       {% include post_pagination.html %}
     </div>
