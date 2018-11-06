@@ -20,6 +20,10 @@ Previously, I did two 3 month internships at Google, one in Zürich and one in M
 I am a mathematician and a software engineer, both of which I use in my research and day to day
 life.
 
+I am currently developing the [Medusa library](http://e6.ijs.si/medusa) for mesless solutions of PDEs with
+strong form methods a well as woring on reasearch and practical projects which use the library.
+
+
 <!---
 vim: set spell spelllang=en:
 -->
