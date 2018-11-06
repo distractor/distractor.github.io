@@ -12,9 +12,11 @@ Research interests:
 - Meshless methods
 - Numerical analysis
 - Parallel computing
+- Algorithms
 
 Ongoing projects:
-- [Building a general meshless
-  solver](http://www-e6.ijs.si/ParallelAndDistributedSystems/MeshlessMachine/wiki/index.php/Main_Page)
+- [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
+    <br>C++ library for solving PDEs with an intuitive syntax.
+- [Dynamic thermal rating of overhead power lines](http://e6.ijs.si/ParallelAndDistributedSystems/DTRi/)
 - [FWO: Multi-analysis of fretting fatigue using physical and virtual
-  experiments](http://www.frettingfatigue.ugent.be/)
+  experiments](http://e6.ijs.si/ParallelAndDistributedSystems/FWO/)

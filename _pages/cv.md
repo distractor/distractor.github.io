@@ -13,7 +13,7 @@ You can download full CV here: [(pdf)]({{site.baseurl}}/files/cv.pdf).
 
 Education
 ------
-- Currently 1st year PhD student of Mathematics
+- Currently 2nd year PhD student of Mathematics
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
 - M.Sc. in Mathematics
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
