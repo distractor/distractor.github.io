@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-05-24-parallel-mipro
 excerpt: 'This paper presents an implementation of a Meshless Local Strong Form Method that allows users to write elegant code expressed in terms of abstract mathematical objects.'
 date: 2018-05-24
-venue: 'DS-DC Mipro proceedings'
+venue: 'Proceedings of the 41st Internation Convention on Information and Communication Technology, Electornics and Microelectornics (MIPRO 2018)'
 paperurl: 'papers/CP_2018_SlakKosec_Mipro.pdf'
-doi: 'http://docs.mipro-proceedings.com/dsdc/dsdc_05_4889.pdf'
-citation: 'Slak, J., and Kosec, G. Parallel Coordinate Free Implementation of Local Meshless Method, DS-DC Mipro proceedings, Croatia, Opatija, 24. May 2018.'
+doi: '10.23919/MIPRO.2018.8400034'
+citation: 'TODO'
 share: false
 ---
 
