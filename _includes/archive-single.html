@@ -44,7 +44,8 @@
       <p class="page__published-in">Published in <i>{{ post.journal }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.doi %},
         <a href="https://doi.org/{{ post.doi }}">DOI &nbsp;<i class="fa fa-external-link"></i></a>{% elsif post.officialurl %},
         <a href="{{ post.officialurl }}">URL &nbsp;<i class="fa fa-external-link"></i></a>{% endif %}.
-      <a class="download" href="{{base_path}}/files/{{ post.localfile }}"> &nbsp; &nbsp; Download &nbsp;<i class="fa fa-download"></i></a>
+        {% if post.bibtex %}<a class="download" href="{{base_path}}/files/{{ post.bibtex }}"> &nbsp; &nbsp; BiBTeX &nbsp;<i class="fa fa-quote-left"></i></a>{% endif %}
+        {% if post.localfile %}<a class="download" href="{{base_path}}/files/{{ post.localfile }}"> &nbsp; &nbsp; Download &nbsp;<i class="fa fa-download"></i></a>{% endif %}
       </p>
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
