@@ -3,7 +3,7 @@ title: "Weak and strong from meshless methods for linear elastic problem under f
 authors: "G. Kosec, J. Slak, M. Depolli, R. Trobec, K. Pereira, S. Tomar, T. Jacquemin, S. P. A. Bordas, M. A. Wahab"
 collection: publications
 permalink: /publication/2019-10-01-tribology
-excerpt: 'Comparison of weak form and strong form meshless methods for linear elastic contact problems.'
+excerpt: 'Comparison of weak form and strong form meshless methods for linear elastic fretting fatigue contact.'
 date: 2019-10-01
 journal: 'Tribology International'
 localfile: 'papers/P_2019_KosecEtAl_Tribology.pdf'
