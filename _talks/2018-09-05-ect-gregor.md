@@ -3,6 +3,7 @@ title: "Numerical simulation of overhead power line cooling in natural convectio
 collection: talks
 type: "Conference talk at the 10th International Conference on Engineering Computational Technology"
 permalink: /talks/2018-09-05-ect-gregor
+paper: 2018-09-05-ect-gregor
 venue: "Melia Sitges"
 date: 2018-09-05
 location: "Sitges, Barcelona, Spain"

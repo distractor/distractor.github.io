@@ -3,6 +3,7 @@ title: "Parallel Coordinate Free Implementation of Local Meshless Method"
 collection: talks
 type: "Conference talk at the 41st Internation Convention on Information and Communication Technology, Electornics and Microelectornics (MIPRO 2018)"
 permalink: /talks/2018-05-24-mipro-parallel
+paper: 2018-05-24-mipro-parallel
 venue: "Grand Hotel Adriatic"
 date: 2018-05-24
 location: "Opatija, Croatia"

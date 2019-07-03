@@ -3,6 +3,7 @@ title: "Refined RBF-FD Solution of Linear Elasticity Problem"
 authors: "J. Slak, G. Kosec"
 collection: publications
 permalink: /publication/2018-06-27-splitech-rbf-fd
+talk: 2018-06-27-splitech-rbf-fd
 excerpt: 'This paper talks about the RBF-FD method and its application to
 linear elasticity problems from fretting fatigue.'
 date: 2018-06-27

@@ -3,6 +3,7 @@ title: "Parallel Coordinate Free Implementation of Local Meshless Method"
 authors: "J. Slak, G. Kosec"
 collection: publications
 permalink: /publication/2018-05-24-parallel-mipro
+talk: 2018-05-24-parallel-mipro
 excerpt: 'This paper presents an implementation of a Meshless Local Strong Form Method that allows users to write elegant code expressed in terms of abstract mathematical objects.'
 date: 2018-05-24
 journal: 'MIPRO 2018: 41st International Convention on Information and Communication Technology, Electronics and Microelectronics, May 21–25, 2018, Opatija, Croatia'

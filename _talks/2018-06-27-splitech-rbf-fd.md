@@ -3,6 +3,7 @@ title: "Refined RBF-FD Solution of Linear Elasticity Problem"
 collection: talks
 type: "Conference talk at the 3rd International Conference on Smart and Sustainable Technologies"
 permalink: /talks/2018-06-27-splitech-rbf-fd
+paper: 2018-06-27-splitech-rbf-fd
 venue: "FESB, University of Split"
 date: 2018-06-27
 location: "Split, Croatia"
