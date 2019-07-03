@@ -6,7 +6,7 @@ permalink: /publication/2018-06-27-splitech-rbf-fd
 excerpt: 'This paper talks about the RBF-FD method and its application to
 linear elasticity problems from fretting fatigue.'
 date: 2018-06-27
-journal: 'Proceedings of the 3rd International Conference on Smart and Sustainable Technologies, SpliTech 2018, June 26--29, 2018, Split, Croatia'
+journal: 'Proceedings of the 3rd International Conference on Smart and Sustainable Technologies, SpliTech 2018, June 26–29, 2018, Split, Croatia'
 localfile: 'papers/CP_2018_SlakKosec_Splitech.pdf'
 bibtex: 'papers/CP_2018_SlakKosec_Splitech.bib'
 officialurl: 'https://ieeexplore.ieee.org/document/8448351'
