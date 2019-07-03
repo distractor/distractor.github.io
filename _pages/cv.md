@@ -34,7 +34,10 @@ applications in fretting fatigue of materials.
 
 - October 2017 -- present: Teaching assistant
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - Preparing and leading exercises for 3rd year course _"Data structures and algorithms"_
+    - Preparing and leading exercises for courses
+        _"Introduction to programming"_,
+        _"Data structures and algorithms 1 & 2"_,
+        _"Databases 1 & 2"_
 
 - Summer 2016: Software Engineering Intern
     - Google Inc., Zürich, Switzerland
@@ -114,13 +117,13 @@ Teaching
 
 Service and leadership
 ------
-- Leader of 2018 Slovenia'a CEOI team
+- Leader of 2018 and 2019 Slovenia's CEOI team
 - Member of committee for high school and student programming contests at ACM Slovenia
 - October 2017 -- present: Member of the student council
 - October 2016 -- October 2017: President of the student council
 - October 2015 -- October 2016: Member of the student council
 - 2013 -- 2017: Tutor for younger students
-- 2012 -- present: Preparing high school student's for [American computer science league](http://acsl.org)
+- 2012 -- present: Preparing high school student's for [American computer science league](http://acsl.org) (team scored in top 3 every year since 2015)
 - 2007 -- 2011: Teaching first aid to elementary school children and helped organize first aid
   awareness events and competitions
 
