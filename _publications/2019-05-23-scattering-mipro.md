@@ -8,7 +8,7 @@ date: 2019-05-23
 journal: 'MIPRO 2019: 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics, May 20–24, 2019, Opatija, Croatia'
 localfile: 'papers/CP_2019_StojanovicSlakKosec_Mipro.pdf'
 bibtex: 'papers/CP_2019_StojanovicSlakKosec_Mipro.bib'
-# doi: '10.23919/MIPRO.2018.8400034'
+doi: '10.23919/MIPRO.2019.8756943'
 citation: 'B. Stojanovič, J. Slak and G. Kosec, RBF-FD solution of electromagnetic scattering problem, in: MIPRO 2019: 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics, May 20–24, 2019, Opatija, Croatia (ed. K. Skala), MIPRO proceedings, IEEE, Croatian Society for Information and Communication Technology, Electronics and Microelectronics, 2019.'
 ---
 
