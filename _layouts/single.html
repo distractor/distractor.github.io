@@ -47,10 +47,14 @@ layout: default
         </header>
       {% endunless %}
 
-      {% if page.localfile %}
+      {% if page.localfile or page.talk %}
       <p class="page__download">
-        <i class="fa fa-download"></i> <a href="{{base_path}}/files/{{ page.localfile }}">Download paper</a>
-        <i class="fa fa-microphone" style="margin-left: 20px;"></i> <a href="{{base_path}}/talks/{{ page.talk }}">See the talk</a>
+        {% if page.localfile %}
+          <i class="fa fa-download"></i> <a href="{{base_path}}/files/{{ page.localfile }}">Download paper</a>
+        {% endif %}
+        {% if page.talk %}
+          <i class="fa fa-microphone" style="margin-left: 20px;"></i> <a href="{{base_path}}/talks/{{ page.talk }}">See the talk</a>
+        {% endif %}
       </p>
       {% endif %}
 
