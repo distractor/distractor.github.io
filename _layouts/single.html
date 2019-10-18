@@ -39,7 +39,7 @@ layout: default
         {% elsif page.journal and page.date %}
           <p class="page__authors"><i class="fa fa-user"></i>&nbsp; {{page.authors}}</a>
           <p class="page__published-in">Published in <i>{{ page.journal }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}{% if page.doi %},
-          <a href="{{ page.doi }}">DOI &nbsp;<i class="fa fa-external-link"></i></a>{% elsif page.officialurl %},
+          <a href="https://doi.org/{{ page.doi }}">DOI &nbsp;<i class="fa fa-external-link"></i></a>{% elsif page.officialurl %},
           <a href="{{ page.officialurl }}">URL &nbsp;<i class="fa fa-external-link"></i></a>{% endif %}. </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
