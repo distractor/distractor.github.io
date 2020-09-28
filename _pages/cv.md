@@ -13,8 +13,10 @@ You can download full CV here: [(pdf)]({{site.baseurl}}/files/cv.pdf).
 
 Education
 ------
-- Currently 2nd year PhD student of Mathematics
+- Currently a post-graduate researcher at Jožef Stefan Institute
+- PhD in Mathematics
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+    - thesis with honors: _"Adaptive RBF-FD method"_ [(pdf)]({{site.baseurl}}/files/phd.pdf)
 - M.Sc. in Mathematics
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
     - GPA 10.0
@@ -26,7 +28,7 @@ Education
 
 Work experience
 ------
-- October 2017 -- present: PhD researcher
+- October 2017 -- September 2020: PhD student
     - "Jožef Stefan" Institute
     - Working on a library for PDE solving using meshless methods with concrete
 applications in fretting fatigue of materials.
@@ -38,7 +40,12 @@ applications in fretting fatigue of materials.
         _"Introduction to programming"_,
         _"Data structures and algorithms 1 & 2"_,
         _"Databases 1 & 2"_
+        _"Numerical mathematics"_
 
+- Summer 2020: Software Engineering Intern
+    - Google Inc., remote
+    - Developed an obfuscated regex mathching engine used for abuse-fighting purposes.        
+        
 - Summer 2016: Software Engineering Intern
     - Google Inc., Zürich, Switzerland
     - Worked on Gmail Analytics team. I established an end to end anomaly detection
