@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-graduate researcher at the 
+I am a post-graduate researcher at the
 [Parallel and Distribute systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/),
 [Department E6](http://e6.ijs.si/),
 [Jožef Stefan Institute](http://ijs.si/),
-an a teaching assistant at the [Faculty of Mathematics and Physics](http://www.fmf.uni-lj.si), [University
-of Ljubljana](https://www.uni-lj.si/) t
+and a teaching assistant at the [Faculty of Mathematics and Physics](http://www.fmf.uni-lj.si), [University
+of Ljubljana](https://www.uni-lj.si/).
 
 Previously, I did three 3 month internships at Google, one remote in 2020, one in 2016 in Zürich and one in 2014 in Mountain View, CA.
 
