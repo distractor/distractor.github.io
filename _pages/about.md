@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-graduate researcher at the
+I am a Software Engineer working for Google in Zürich.
+
+Previously I was a post-graduate researcher (and a PhD student before that) at the
 [Parallel and Distribute systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/),
 [Department E6](http://e6.ijs.si/),
 [Jožef Stefan Institute](http://ijs.si/),
 and a teaching assistant at the [Faculty of Mathematics and Physics](http://www.fmf.uni-lj.si), [University
 of Ljubljana](https://www.uni-lj.si/).
-
-Previously, I did three 3 month internships at Google, one remote in 2020, one in 2016 in Zürich and one in 2014 in Mountain View, CA.
+I am currently developing the [Medusa library](http://e6.ijs.si/medusa) for meshless solutions of PDEs with
+strong form methods along with working on research into adaptivity for meshless methods, as well as
+multiple practical projects which use the library.
 
 I am a mathematician and a software engineer, both of which I use in my research and day to day
 life.
-
-I am currently developing the [Medusa library](http://e6.ijs.si/medusa) for meshless solutions of PDEs with
-strong form methods as well as working on research and practical projects which use the library.
 
 
 <!---

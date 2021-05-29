@@ -17,7 +17,4 @@ Research interests:
 Ongoing projects:
 - [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
     <br>C++ library for solving PDEs with an intuitive syntax.
-- Dynamic thermal rating of overhead power lines: [icing](http://e6.ijs.si/ParallelAndDistributedSystems/projects/DTRi/),
-  [natural convection](http://e6.ijs.si/ParallelAndDistributedSystems/projects/ELES_NC)
-- [FWO: Multi-analysis of fretting fatigue using physical and virtual
-  experiments](http://e6.ijs.si/ParallelAndDistributedSystems/projects/FWO/)
+- Dynamic thermal rating of overhead power lines: [DiTeR](https://e6.ijs.si/ParallelAndDistributedSystems/products/diter/)

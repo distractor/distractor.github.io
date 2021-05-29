@@ -11,30 +11,24 @@ redirect_from:
 
 You can download full CV here: [(pdf)]({{site.baseurl}}/files/cv.pdf).
 
-Education
-------
-- Currently a post-graduate researcher at Jožef Stefan Institute
-- PhD in Mathematics
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - thesis with honors: _"Adaptive RBF-FD method"_ [(pdf)]({{site.baseurl}}/files/phd.pdf)
-- M.Sc. in Mathematics
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - GPA 10.0
-    - thesis: _"Solving linear elastostatic problems using meshless methods"_ [(pdf in slovenian)]({{site.baseurl}}/files/ms.pdf)
-- B.Sc. in Mathematics
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - GPA 9.91
-    - thesis: _"Inductive and Coinductive Data Types"_ [(pdf in slovenian)]({{site.baseurl}}/files/bs.pdf)
-
 Work experience
 ------
+- May 2021 -- present: Software Engineer
+    - Google Inc., Zürich, Switzerland
+    - working in Abuse prevention and Security team
+
+- October 2020 -- May 2021: Postgraduate researcher
+    - "Jožef Stefan" Institute
+    - finalizing PhD research
+
 - October 2017 -- September 2020: PhD student
     - "Jožef Stefan" Institute
-    - Working on a library for PDE solving using meshless methods with concrete
+    - researching adaptivity in meshless methods
+    - working on a library for PDE solving using meshless methods with concrete
 applications in fretting fatigue of materials.
     - Supervisor: [dr. Gregor Kosec](http://e6.ijs.si/~gkosec/)
 
-- October 2017 -- present: Teaching assistant
+- October 2017 -- May 2021: Teaching assistant
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
     - Preparing and leading exercises for courses
         _"Introduction to programming"_,
@@ -42,10 +36,10 @@ applications in fretting fatigue of materials.
         _"Databases 1 & 2"_
         _"Numerical mathematics"_
 
-- Summer 2020: Software Engineering Intern
+- Summer 2020: PhD Software Engineering Intern
     - Google Inc., remote
-    - Developed an obfuscated regex mathching engine used for abuse-fighting purposes.        
-        
+    - Developed an obfuscated regex matching engine used for abuse-fighting purposes.
+
 - Summer 2016: Software Engineering Intern
     - Google Inc., Zürich, Switzerland
     - Worked on Gmail Analytics team. I established an end to end anomaly detection
@@ -74,6 +68,25 @@ access for querying as well as linking it to the frontend tool used by analysts.
 Included preparing lectures and exercises, giving lectures and leading lab exercises,
 preparing and grading exams for ∼100 students every year, 10 hours per week.
 
+Education
+------
+- PhD in Mathematics
+    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+    - thesis with honors: _"Adaptive RBF-FD method"_ [(pdf)]({{site.baseurl}}/files/phd.pdf)
+- M.Sc. in Mathematics
+    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+    - GPA 10.0
+    - thesis: _"Solving linear elastostatic problems using meshless methods"_ [(pdf in slovenian)]({{site.baseurl}}/files/ms.pdf)
+- B.Sc. in Mathematics
+    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+    - GPA 9.91
+    - thesis: _"Inductive and Coinductive Data Types"_ [(pdf in slovenian)]({{site.baseurl}}/files/bs.pdf)
+
+Committees
+----------
+- RTK/UPM (Slovenian ACM programming competition for high-school/university students)
+- member of the FPSAC 2019 organizing committee
+
 Awards and Scholarships
 ------
 
@@ -92,10 +105,10 @@ Awards and Scholarships
 Skills
 ------
 - Good knowledge and at least 5 year professional experience in Python and C++
-- Familiar with Java, Matlab, Mathematica, R
+- Good knowledge of common algorithms and data structures
+- Familiar with Java, Matlab, Mathematica, R, C#, Go, Rust
 - Familiar with web technologies (HTML, CSS, Sass, JS, jQuery, Bootstrap, Material Design, PHP, SQL,
   jekyll, django)
-- Good knowledge of common algorithms and data structures
 - Familiar with Windows and Linux
 - Familiar with version control systems (Git, Mercurial) and unit test frameworks (Google Test, JUnit, unittest)
 - Completed CCNA Exporation: Network Fundamentals course
