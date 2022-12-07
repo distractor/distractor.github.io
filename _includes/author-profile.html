@@ -40,6 +40,9 @@
       {% if author.email3 %}
         <li><a target="_blank" href="mailto:{{ author.email3 }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}: {{ author.email3 }}</a></li>
       {% endif %}
+      {% if author.researchgate %}
+      <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a target="_blank" href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}

@@ -325,3 +325,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.ai-researchgate:before {
+  content: "\e854";
+}
+.ai-researchgate-square:before {
+  content: "\e855";
+}
