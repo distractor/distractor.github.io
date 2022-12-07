@@ -10,7 +10,7 @@ redirect_from:
 
 I am a scientific researcher and a PhD student at the [Parallel and Distributed systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/), [Department E6](http://e6.ijs.si/), [Jožef Stefan Institute](http://ijs.si/) and a self-employed developer.
 
-## Research 
+## As a researcher 
 
 I am currently involved in the development of [Medusa library](http://e6.ijs.si/medusa) for meshless solutions of PDEs with strong form methods along with working on research into adaptivity for meshless methods, as well as multiple practical projects which use the library. 
 
