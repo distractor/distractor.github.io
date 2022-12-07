@@ -28,9 +28,9 @@ YES. Feel free to contact me if you have an interesting project.
 
 ## Demonstrated work in
 
-- Software development: C++, C#, .net, Python, typescript, FreePascal
+- Software development: C++, C#, .net, Python, Typescript, FreePascal
 - Numerical analysis: Abaqus, FreeFem++
-- Writing: Latex
+- Writing: LaTeX
 - ...
 
 **Absolutely willing to learn new things!**
