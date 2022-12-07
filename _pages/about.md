@@ -26,6 +26,13 @@ Additionally, I was also involved in development of web trading application (bac
 
 YES. Feel free to contact me if you have an interesting project.
 
+## Demonstrated work in
+
+- Software development: C++, .net, Python, typescript, FreePascal
+- Numerical analysis: Abaqus, FreeFem++
+- Writing: Latex
+
+<b> Absolutely willing to learn new things!</b>
 
 
 <!---
