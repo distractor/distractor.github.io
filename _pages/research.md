@@ -11,10 +11,17 @@ Research interests:
 - Computational Modelling
 - Meshless methods
 - Numerical analysis
+- Numerical simulation
+- Adaptive solution procedures
 - Parallel computing
-- Algorithms
+
+Would love to research:
+- Soft body dynamics
+- Aerodynamics
+- Racing yacht simulation (without experience)
 
 Ongoing projects:
 - [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
     <br>C++ library for solving PDEs with an intuitive syntax.
-- Dynamic thermal rating of overhead power lines: [DiTeR](https://e6.ijs.si/ParallelAndDistributedSystems/products/diter/)
+- WingDesigner (courtesy of NOVA Vertriebsgesellschaft m.b.H):
+    <br>Software for development and simulation of paragliders.
