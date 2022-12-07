@@ -21,4 +21,7 @@ author_profile: true
 - Aerodynamics
 - Racing yacht simulation (without experience)
 - Implementation of math and physics into code
-- ...
+
+## Open to other ideas?
+
+YES.
