@@ -8,20 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer working for Google in Zürich.
+I am a scientific researcher and a PhD student at the [Parallel and Distributed systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/), [Department E6](http://e6.ijs.si/), [Jožef Stefan Institute](http://ijs.si/) and a self-employed developer.
 
-Previously I was a post-graduate researcher (and a PhD student before that) at the
-[Parallel and Distribute systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/),
-[Department E6](http://e6.ijs.si/),
-[Jožef Stefan Institute](http://ijs.si/),
-and a teaching assistant at the [Faculty of Mathematics and Physics](http://www.fmf.uni-lj.si), [University
-of Ljubljana](https://www.uni-lj.si/).
-I am currently developing the [Medusa library](http://e6.ijs.si/medusa) for meshless solutions of PDEs with
-strong form methods along with working on research into adaptivity for meshless methods, as well as
-multiple practical projects which use the library.
+## Research 
 
-I am a mathematician and a software engineer, both of which I use in my research and day to day
-life.
+I am currently involved in the development of [Medusa library](http://e6.ijs.si/medusa) for meshless solutions of PDEs with strong form methods along with working on research into adaptivity for meshless methods, as well as multiple practical projects which use the library. 
+
+My research is focused on hp-adaptive solution procedures and different approximation methods.
+
+## As self-employed
+
+I was heavily involved in software development used for design and construction of paragliders. Including export of DXF patterns and automatic creation of FEM mesh.
+
+Additionally, I was also involved in development of web trading application (backend and frontend).
+
+# Open to work?
+
+YES. Feel free to contact me if you have an interesting project.
+
 
 
 <!---

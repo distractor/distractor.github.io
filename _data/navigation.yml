@@ -3,14 +3,14 @@ main:
   - title: "About me"
     url: /
 
-  - title: "Research"
+  - title: "Research interest"
     url: /research/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/
 
   - title: "Talks"
     url: /talks/
