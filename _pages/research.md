@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Reasearch"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -21,3 +21,4 @@ author_profile: true
 - Aerodynamics
 - Racing yacht simulation (without experience)
 - Implementation of math and physics into code
+- ...
