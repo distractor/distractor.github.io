@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a scientific researcher and a PhD student at the [Parallel and Distributed systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/), [Department E6](http://e6.ijs.si/), [Jožef Stefan Institute](http://ijs.si/) and a self-employed developer.
+I am a scientific researcher and a PhD student at the [Parallel and Distributed systems Laboratory](http://e6.ijs.si/ParallelAndDistributedSystems/), [Department E6](http://e6.ijs.si/), [Jožef Stefan Institute](http://ijs.si/) and a self-employed developer/computational scientist.
 
 ## As a researcher 
 
