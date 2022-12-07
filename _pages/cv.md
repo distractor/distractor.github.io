@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download full CV here: [(pdf)]({{site.baseurl}}/files/cv.pdf).
+You can download full EUROPASS CV here: [(pdf)]({{site.baseurl}}/files/cv.pdf).
 
 Work experience
 ------
@@ -26,11 +26,12 @@ Work experience
     - "Jožef Stefan" Institute
     - Researching adaptivity in meshless methods.
     - Working on a library for PDE solving using meshless methods with concrete applications.
-    - Finalizing PhD research.
     - Parallel and distributed computing on GPUs with CUDA.
     - Solving Poisson equation in multidimensional space.
     - Study plastic deformation of an aluminium block when exposed to extreme temperatures with FreeFEM++ and meshless methods.
     - Moving boundary problem simulation - dendritic growth.
+    - Dynamic Thermal Rating (DTR) of overhead power lines and uncertainty of DTR.
+    - Finalizing PhD research.
     - Supervisor: [dr. Gregor Kosec](http://e6.ijs.si/~gkosec/)
 
 
@@ -52,7 +53,7 @@ Work experience
 
 Education
 ------
-- PhD (finishing stage)
+- PhD (expected finish in 2023)
     - International Postgraduate School Jožef Stefan, Ljubljana, Slovenia
     - hp-adaptive strong-form mesh-free solution procedure
 - M.Sc. in Mechanical engineering

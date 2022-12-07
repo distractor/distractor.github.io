@@ -17,11 +17,11 @@ author_profile: true
 
 ## Would love to be included in
 - Numerical simulation
-- Soft body dynamics (without experience)
-- Aerodynamics
-- Racing yacht simulation (without experience)
+- Soft body dynamics (without experience worth mentioning)
+- Aerodynamics (some experience)
+- Racing yacht simulation (without any experience)
 - Implementation of math and physics into code
 
 ## Open to other ideas?
 
-YES.
+YES. Feel free to contact me if you have an interesting project.
