@@ -14,7 +14,7 @@ I am a scientific researcher and a PhD student at the [Parallel and Distributed 
 
 I am currently involved in the development of [Medusa library](http://e6.ijs.si/medusa) for meshless solutions of PDEs with strong form methods along with working on research into adaptivity for meshless methods, as well as multiple practical projects which use the library. 
 
-My research is focused on hp-adaptive solution procedures and different approximation methods.
+My research is focused on hp-adaptive solution procedures and different approximation methods with an emphasis on practical problems including but not limited to heat transfer, elastic/plastic deformation, fluid flow, etc.
 
 ## As self-employed
 
