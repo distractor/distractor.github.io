@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jure Slak"
+title                    : "Mitja Jančič"
 title_separator          : "-"
-name                     : &name "Jure Slak"
-description              : &description "Post-graduate researcher at Parallel and Distribute systems Laboratory, Jožef Stefan Institute"
-url                      : "https://jureslak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mitja Jančič"
+description              : &description "Researcher at Parallel and Distributed systems Laboratory, Jožef Stefan Institute"
+url                      : "https://distractor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 #  url                      : "http://e6.ijs.si" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #  baseurl                  : "/~jslak" # the subpath of your site, e.g. "/blog"
-repository               : "jureslak/jureslak.github.io"
+repository               : "distractor/distractor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jure Slak"
+  name             : "Mitja Jančič"
   avatar           : "profile.png"
-  bio              : "Software engineer at Google.<br>Previously a post-graduate researcher at <a href='http://e6.ijs.si/ParallelAndDistributedSystems/' target='_blank'>Parallel and Distributed Systems laboratory</a>, <a href='http://e6.ijs.si' target='_blank'>department E6</a>, <a href='http://ijs.si/' target='_blank'>&raquo;Jožef Stefan&laquo; Institute</a>"
-  location         : "<a href='https://www.google.si/maps/place/Institut+Jožef+Stefan' target='_blank' style='display: inline'>Office S7,<br> &raquo;Jožef Stefan&laquo; Institute,<br>Jamova cesta 39,<br> Ljubljana, Slovenia</a>"
+  bio              : "<b>Researcher</b> at <a href='http://e6.ijs.si/ParallelAndDistributedSystems/' target='_blank'>Parallel and Distributed Systems laboratory</a>, <a href='http://e6.ijs.si' target='_blank'>department E6</a>, <a href='http://ijs.si/' target='_blank'>&raquo;Jožef Stefan&laquo; Institute</a>"
+  location         : "Ljubljana, Slovenia"
   employer         :
-  googlescholar    : "https://scholar.google.si/citations?user=guGtxmgAAAAJ"
-  email            : "jure.slak@ijs.si"
-  email2           : "jure.slak@fmf.uni-lj.si"
+  googlescholar    : "https://scholar.google.si/citations?user=pl8xsvMAAAAJ"
+  email            : "mitja.jancic@ijs.si"
+  email2           : "mitjajancic@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Mitja-Jancic"
   uri              :
   bitbucket        : # "jureslak"
   codepen          :
@@ -95,16 +96,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jureslak"
+  github           : "distractor"
   google_plus      : # "+JureSlak"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "jure-slak-11428662"
-  orcid            :
+  linkedin         : "mitja-jančič-89710b133"
+  orcid            : https://orcid.org/0000-0003-1850-412X
   pinterest        :
   soundcloud       :
-  stackoverflow    : "2241000/jureslak" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
