@@ -13,105 +13,69 @@ You can download full CV here: [(pdf)]({{site.baseurl}}/files/cv.pdf).
 
 Work experience
 ------
-- May 2021 -- present: Software Engineer
-    - Google Inc., Zürich, Switzerland
-    - working in Abuse prevention and Security team
+- Dec 2017 -- (present): Self-employed
+    - Detailed studies of DXF file format. Programming a DXF file exporter in Pascal programming language.
+    - Advanced use of Excel - macros, VBA, C#.
+    - Developed dedicated Finite Element Method mesher.
+    - Ongoing support developing paragliders.
+    --------------------------
+    - Data acqusition for predictive models (C#).
+    - Development of trading engine (C#).
+    - Front end development of web apps (vue, .net).
 
-- October 2020 -- May 2021: Postgraduate researcher
+- Mar 2019 -- Mar 2023 (expected): PhD student
     - "Jožef Stefan" Institute
-    - finalizing PhD research
-
-- October 2017 -- September 2020: PhD student
-    - "Jožef Stefan" Institute
-    - researching adaptivity in meshless methods
-    - working on a library for PDE solving using meshless methods with concrete
-applications in fretting fatigue of materials.
+    - Researching adaptivity in meshless methods.
+    - Working on a library for PDE solving using meshless methods with concrete applications.
+    - Finalizing PhD research.
+    - Parallel and distributed computing on GPUs with CUDA.
+    - Solving Poisson equation in multidimensional space.
+    - Study plastic deformation of an aluminium block when exposed to extreme temperatures with FreeFEM++ and meshless methods.
+    - Moving boundary problem simulation - dendritic growth.
     - Supervisor: [dr. Gregor Kosec](http://e6.ijs.si/~gkosec/)
 
-- October 2017 -- May 2021: Teaching assistant
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - Preparing and leading exercises for courses
-        _"Introduction to programming"_,
-        _"Data structures and algorithms 1 & 2"_,
-        _"Databases 1 & 2"_
-        _"Numerical mathematics"_
 
-- Summer 2020: PhD Software Engineering Intern
-    - Google Inc., remote
-    - Developed an obfuscated regex matching engine used for abuse-fighting purposes.
+- Jul 2014 -- Dec 2017: Assistant to head of R&D
+    - Setting up a model of "ballooning effect" and its implementation in the prototyping protocol via a Mathemathica/Python software.
+    - Production quality assurance via precise experimental work.
+    - Translations and other minor works on their [webpage](www.nova.eu).
 
-- Summer 2016: Software Engineering Intern
-    - Google Inc., Zürich, Switzerland
-    - Worked on Gmail Analytics team. I established an end to end anomaly detection
-system that analyses billions of time series per day, extracts and orders anomalies
-and displays them to the analysts through our frontend.
+- Oct 2016 -- Nov 2917: Research intern
+    - "Jožef Stefan" Institute
+    - Working on my masters thesis: "Identification of dynamic systems using deep Gaussian Processes". 
+    - Using supervised learning method we predicted the air temperature around a nuclear plant Krško (Slovenia). Results showed that using deep models is an overkill single layered models produced better results with less computation time.
 
-- Summer 2015 -- October 2017:
-    - Laboratory for Parallel and Distributed Systems, "Jožef Stefan" Institute
-    - Collaborated in a team of three people to develop a production system for Slovenian
-Electricity Transmission System Operator to alert of possible icing conditions and calculate
-the amount of needed electrical current to prevent it. This included the development of the
-mathematical model, implementation, testing against field measurements and numerical testing,
-implementation with a web interface for manual simulations and controls, connecting many different
-data sources. The system was launched on schedule and runs live without any reported outages.
+- Nov 2009 -- Jun 2011: Student work
+    - Animating guests of all age.
+    - Organisation and leading all the big events (+1000 people).
+    - Responsible for entertainment while youngsters were celebrating a birthday party.
 
-- Summer 2014: Software Engineering Intern
-    - Google Inc., Mountain View, California
-    - Worked on Gmail spam detection system. I worked on transitioning the spam
-detection system to a new reputation based model, more specifically, I developed
-a tool that saves the reputation history of a feature and allows programmatic
-access for querying as well as linking it to the frontend tool used by analysts.
-
-- October 2013 -- October 2017:  Student teaching assistant
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - Teaching course "Computing Laboratory" for students of Mathematics and students of Physics.
-Included preparing lectures and exercises, giving lectures and leading lab exercises,
-preparing and grading exams for ∼100 students every year, 10 hours per week.
 
 Education
 ------
-- PhD in Mathematics
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+- PhD
+    - International Postgraduate School Jožef Stefan, Ljubljana, Slovenia
     - thesis with honors: _"Adaptive RBF-FD method"_ [(pdf)]({{site.baseurl}}/files/phd.pdf)
-- M.Sc. in Mathematics
+- M.Sc. in Mechanical engineering
+    - Faculty of Mechanical Engineering, University of Ljubljana, Slovenia
+    - thesis: _"Identification of dynamic systems using deep Gaussian Processes"_ [(pdf in slovenian)]({{site.baseurl}}/files/masters.pdf)
+- B.Sc. in Physics
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - GPA 10.0
-    - thesis: _"Solving linear elastostatic problems using meshless methods"_ [(pdf in slovenian)]({{site.baseurl}}/files/ms.pdf)
-- B.Sc. in Mathematics
-    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
-    - GPA 9.91
-    - thesis: _"Inductive and Coinductive Data Types"_ [(pdf in slovenian)]({{site.baseurl}}/files/bs.pdf)
+    - thesis: _"Lattice modelling of liquid crystals in spherical shells"_ [(pdf in slovenian)]({{site.baseurl}}/files/seminar_physics.pdf)
 
-Committees
-----------
-- RTK/UPM (Slovenian ACM programming competition for high-school/university students)
-- member of the FPSAC 2019 organizing committee
 
 Awards and Scholarships
 ------
 
-- Prešeren's award (faculty level) for students (highest award for research thesis or artwork): 2017
-- Dean's award: 2013, 2015, 2016, 2017
-- Baron Sigmund Zois von Edelstein Scholarship: 2008 -- 2017
-- Slovenian ACM-ICPC competition in computer programming (captain of a team of 3):
-    - 2017: 1st place
-    - 2016: 3rd place
-    - 2015: 2nd place
-    - 2014: 2nd place
-    - 2013: 1st place
-    - 2012: 3rd place
-- Bronze medal in IOI (International Olympiad in Informatics, Sirmione, Italy)
+- Granted a 12-month World Federation of Scientists scholarship during my PhD.
 
 Skills
 ------
-- Good knowledge and at least 5 year professional experience in Python and C++
-- Good knowledge of common algorithms and data structures
-- Familiar with Java, Matlab, Mathematica, R, C#, Go, Rust
-- Familiar with web technologies (HTML, CSS, Sass, JS, jQuery, Bootstrap, Material Design, PHP, SQL,
-  jekyll, django)
-- Familiar with Windows and Linux
-- Familiar with version control systems (Git, Mercurial) and unit test frameworks (Google Test, JUnit, unittest)
-- Completed CCNA Exporation: Network Fundamentals course
+- Good knowledge in Python, C++, C#, FreePascal
+- Familiar with web technologies (postgresSQL, mySQL, typescript, HTML, .net, CSS, vue)
+- Familiar with parallel execution (openMP, CUDA)
+- Familiar with Windows and Linux and WSL
+- Familiar with version control systems (Git)
 
 Languages
 -----
@@ -120,32 +84,28 @@ Languages
 - German: basic proficiency
 - Croatian: basic proficiency
 
-<!--
-
-Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-
-Service and leadership
+Certifications
 ------
-- Leader of 2018 and 2019 Slovenia's CEOI team
-- Member of committee for high school and student programming contests at ACM Slovenia
-- October 2017 -- present: Member of the student council
-- October 2016 -- October 2017: President of the student council
-- October 2015 -- October 2016: Member of the student council
-- 2013 -- 2017: Tutor for younger students
-- 2012 -- present: Preparing high school student's for [American computer science league](http://acsl.org) (team scored in top 3 every year since 2015)
-- 2007 -- 2011: Teaching first aid to elementary school children and helped organize first aid
-  awareness events and competitions
+- Quantum programming course presented by QLatvia Software.
+- Parallel programming workshop at HLRS (Stuttgart).
+- Iterative Solvers for Linear Systems at HLRS (Stuttgart).
+- Modern scientific C++ at IDRIS.
+- ENCCS workshop on CMAKE held by ENCCS.
+- CodeRefinery workshop Organized by the Arctic University of Norway.
+- Introductioon to GPU programming with OpenACC at IDRIS.
+- CFD on HPC: OpenFoam at Faculty of Mechanics at the University of Ljubljana.
+- Advanced Paraview workshop.
+
+
+Organisational skills
+------
+- Team leader of national paragliding team at the European and World Championships 2016-2019
+- Leading editor of Slovenian paragliding magazine IKAR in 2018
+- President of Slovenian Paragliding Team club (2016-2020)
+- Main administrator in local paragliding club DJP Metulj Rimske Toplice (2013 - )
+- As pool animator we organised big events (up to 1000 people attended) - I usually had the leading organisational role during that event.
+- Management of students during my employment at the Jožef Stefan Institute.
+- Life balancing between freelancing, PhD, employment, paragliding, family and friends.
 
 
 Publications
