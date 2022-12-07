@@ -18,7 +18,6 @@ Work experience
     - Advanced use of Excel - macros, VBA, C#.
     - Developed dedicated Finite Element Method mesher.
     - Ongoing support developing paragliders.
-    --------------------------
     - Data acqusition for predictive models (C#).
     - Development of trading engine (C#).
     - Front end development of web apps (vue, .net).
@@ -53,9 +52,9 @@ Work experience
 
 Education
 ------
-- PhD
+- PhD (finishing stage)
     - International Postgraduate School Jožef Stefan, Ljubljana, Slovenia
-    - thesis with honors: _"Adaptive RBF-FD method"_ [(pdf)]({{site.baseurl}}/files/phd.pdf)
+    - hp-adaptive strong-form mesh-free solution procedure
 - M.Sc. in Mechanical engineering
     - Faculty of Mechanical Engineering, University of Ljubljana, Slovenia
     - thesis: _"Identification of dynamic systems using deep Gaussian Processes"_ [(pdf in slovenian)]({{site.baseurl}}/files/masters.pdf)
