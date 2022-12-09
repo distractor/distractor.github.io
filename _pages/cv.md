@@ -41,7 +41,7 @@ Work experience
     - Production quality assurance via precise experimental work.
     - Translations and other minor works on their [webpage](www.nova.eu).
 
-- Oct 2016 -- Nov 2917: Research intern
+- Oct 2016 -- Nov 2017: Research intern
     - "Jožef Stefan" Institute
     - Working on my masters thesis: "Identification of dynamic systems using deep Gaussian Processes". 
     - Using supervised learning method we predicted the air temperature around a nuclear plant Krško (Slovenia). Results showed that using deep models is an overkill single layered models produced better results with less computation time.
