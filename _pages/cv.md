@@ -36,6 +36,7 @@ Work experience
 
 
 - Jul 2014 -- Dec 2017: Assistant to head of R&D
+    - NOVA Vertriebsgesellschaft m.b.H.
     - Setting up a model of "ballooning effect" and its implementation in the prototyping protocol via a Mathemathica/Python software.
     - Production quality assurance via precise experimental work.
     - Translations and other minor works on their [webpage](www.nova.eu).
