@@ -15,7 +15,7 @@ High-voltage transmission lines represent an important segment of the electric p
 
 ## Trading tools
 
-Development of local web-based trading tool used to simulation different trading strategies realtime. Project is not open source.
+Development of local web-based trading tool used to simulation different trading strategies realtime.
 
 **Note** The project is not open source.
 {: .notice}
@@ -25,13 +25,15 @@ Development of local web-based trading tool used to simulation different trading
 ## [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
 - C++ library for solving PDEs with an intuitive syntax.
 - Solved multiple problems ranging from linear elasticity, plastic deformation, fluid flow, heat transfer, moving boundary problems, ...
+- Implementation of adaptive solution procedures.
+- Study of approximation methods.
 
 <img src='/images/natural_convection.png' width="100%">
 
 ## WingDesigner
 Software development for construction and simulation of paragliders. From a selection of input parameters from a dedicated advanced Excel file to 3D models, production-ready DXF files and simulation related files (such as automatic construction of FEM mesh).
 
-<img src='/images/mesh.png' width="100%">
+<img src='/images/mesh.png' width="100%" alt="Girl in a jacket">
 
 **Note** The project is not open source.
 {: .notice}
