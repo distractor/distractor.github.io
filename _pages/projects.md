@@ -35,5 +35,10 @@ Software development for construction and simulation of paragliders. From a sele
 
 <img src='/images/mesh.png' width="100%" alt="Girl in a jacket">
 
+<figure>
+  <img src='/images/mesh.png' width="100%" alt="Girl in a jacket">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
 **Note** The project is not open source.
 {: .notice}
