@@ -47,3 +47,11 @@ Software development for construction and simulation of paragliders. From a sele
 
 **Note** The project is not open source.
 {: .notice}
+
+## Downscaling weather data to complex terrain
+Study of existing models used to downscale mesoscale meteorological models to complex terrain via diagnostic or prognostic models. Particularly interested in temperature, wind field and solar irradiation.
+
+As a final result, a limited number of models should be implemented and their performance analysed.
+
+**Note** The project is not open source.
+{: .notice}
