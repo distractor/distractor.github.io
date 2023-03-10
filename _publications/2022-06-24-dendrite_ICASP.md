@@ -4,7 +4,7 @@ authors: 'Mitja Jančič, Miha Založnik, Gregor Kosec'
 collection: publications
 permalink: /publication/2022-06-24-dendrite-ICASP
 excerpt: 'A sharp-interface mesoscopic model for dendritic growth.'
-date: 2022-24-06
+date: 2022-06-24
 journal: 'IOP Conference Series: Materials Science and Engineering'
 localfile: 'papers/2022-06-24-dendrite-ICASP.pdf'
 bibtex: 'papers/2022-06-24-dendrite-ICASP.bib'
