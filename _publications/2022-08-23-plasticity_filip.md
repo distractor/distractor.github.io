@@ -1,9 +1,9 @@
 ---
-title: "A Meshless Solution of a Small-Strain Plasticity Problem"
+title: "Meshless simulation of infinitesimal elastoplastic deformation of a 3D body"
 authors: 'Filip Strniša, Mitja Jančič, Gregor Kosec'
 collection: publications
 permalink: /publication/2022-08-23-plasticity_filip
-excerpt: 'A Meshless Solution of a Small-Strain Plasticity Problem.'
+excerpt: 'Meshless simulation of infinitesimal elastoplastic deformation of a 3D body.'
 date: 2022-08-23
 journal: 'IEEE'
 localfile: 'papers/2022-08-23-plasticity_filip.pdf'
