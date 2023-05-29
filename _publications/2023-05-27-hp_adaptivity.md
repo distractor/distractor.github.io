@@ -2,12 +2,12 @@
 title: "Strong form mesh-free hp-adaptive solution of linear elasticity problem"
 authors: 'Mitja Jančič, Gregor Kosec'
 collection: publications
-permalink: /publication/2023-05-27-hp-adaptivity
+permalink: /publication/2023-05-27-hp_adaptivity
 excerpt: 'Strong form mesh-free hp-adaptive solution of linear elasticity problem.'
 date: 2023-05-27
 journal: 'Engineering with Computers'
-localfile: 'papers/2023-05-27-hp-adaptivity.pdf'
-bibtex: 'papers/2023-05-27-hp-adaptivity.bib'
+localfile: 'papers/2023-05-27-hp_adaptivity.pdf'
+bibtex: 'papers/2023-05-27-hp_adaptivity.bib'
 officialurl: 'https://link.springer.com/article/10.1007/s00366-023-01843-6'
 citation: 'Jančič, M., Kosec, G. Strong form mesh-free hp-adaptive solution of linear elasticity problem. Engineering with Computers (2023). https://doi.org/10.1007/s00366-023-01843-6'
 ---
