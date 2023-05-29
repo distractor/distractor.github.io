@@ -4,7 +4,7 @@ authors: 'Mitja Jančič, Gregor Kosec'
 collection: publications
 permalink: /publication/2023-05-27-hp-adaptivity
 excerpt: 'Strong form mesh-free hp-adaptive solution of linear elasticity problem.'
-date: 2022-05-27
+date: 2023-05-27
 journal: 'Engineering with Computers'
 localfile: 'papers/2023-05-27-hp-adaptivity.pdf'
 bibtex: 'papers/2023-05-27-hp-adaptivity.bib'
