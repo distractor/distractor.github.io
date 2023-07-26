@@ -26,6 +26,7 @@ Development of local web-based trading tool used to simulation different trading
 # Ongoing projects
 
 ## [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
+
 - C++ library for solving PDEs with an intuitive syntax.
 - Solved multiple problems ranging from linear elasticity, plastic deformation, fluid flow, heat transfer, moving boundary problems, ...
 - Implementation of adaptive solution procedures.
@@ -36,8 +37,8 @@ Development of local web-based trading tool used to simulation different trading
   <figcaption>Figure: Natural convection from a heated cylinder.</figcaption>
 </figure>
 
-
 ## WingDesigner
+
 Software development for construction and simulation of paragliders. From a selection of input parameters from a dedicated advanced Excel file to 3D models, production-ready DXF files and simulation related files (such as automatic construction of FEM mesh).
 
 <figure>
@@ -49,9 +50,15 @@ Software development for construction and simulation of paragliders. From a sele
 {: .notice}
 
 ## Downscaling weather data to complex terrain
+
 Study of existing models used to downscale mesoscale meteorological models to complex terrain via diagnostic or prognostic models. Particularly interested in temperature, wind field and solar irradiation.
 
-As a final result, a limited number of models should be implemented and their performance analysed.
+As a final result, CALMET will be implemented and its performance analysed.
+
+<figure>
+  <img src='/images/downscaling.png' width="100%">
+  <figcaption>Figure: Example downscaled wind field. Figure taken from: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/we.2169">here</a>.</figcaption>
+</figure>
 
 **Note** The project is not open source.
 {: .notice}
