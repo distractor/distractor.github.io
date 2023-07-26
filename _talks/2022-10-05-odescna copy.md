@@ -1,0 +1,14 @@
+---
+title: "hp-adaptive method for solving partial differential equations"
+collection: talks
+type: "Presentation for company Fifty2."
+permalink: /talks/2023-16-05-fifty2
+venue: "Zoom conference"
+date: 2023-16-05
+location: "Online"
+share: false
+---
+
+A presentation talk about the hp-adaptive method for solving partial differential equations.
+
+You can also download the [presentation]({{ site.baseurl }}/files/presentations/fifty2.pdf).
