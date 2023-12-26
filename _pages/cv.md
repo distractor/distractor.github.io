@@ -22,7 +22,7 @@ Work experience
     - Development of trading engine (C#).
     - Front end development of web apps (vue, .net).
 
-- Mar 2019 -- Mar 2023 (expected): PhD student
+- Mar 2019 -- Feb 2024 (expected): PhD student
     - "Jožef Stefan" Institute
     - Researching adaptivity in meshless methods.
     - Working on a library for PDE solving using meshless methods with concrete applications.
@@ -54,7 +54,7 @@ Work experience
 
 Education
 ------
-- PhD (expected finish in 2023)
+- PhD (expected finish in Q1 2024)
     - International Postgraduate School Jožef Stefan, Ljubljana, Slovenia
     - hp-adaptive strong-form mesh-free solution procedure
 - M.Sc. in Mechanical engineering

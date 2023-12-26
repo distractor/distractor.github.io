@@ -18,7 +18,7 @@ High-voltage transmission lines represent an important segment of the electric p
 
 ## Trading tools
 
-Development of local web-based trading tool used to simulation different trading strategies realtime.
+Development of local web-based trading tool used to simulate different trading strategies **realtime**.
 
 **Note** The project is not open source.
 {: .notice}
@@ -53,11 +53,11 @@ Software development for construction and simulation of paragliders. From a sele
 
 Study of existing models used to downscale mesoscale meteorological models to complex terrain via diagnostic or prognostic models. Particularly interested in temperature, wind field and solar irradiation.
 
-As a final result, CALMET will be implemented and its performance analysed.
+As a final result, CALMET was deployed and its performance thoroughly analysed.
 
 <figure>
   <img src='/images/downscaling.png' width="100%">
-  <figcaption>Figure: Example downscaled wind field. Figure taken from: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/we.2169">here</a>.</figcaption>
+  <figcaption>Figure: Example downscaled wind field. Demonstrative figure taken from: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/we.2169">here</a>.</figcaption>
 </figure>
 
 **Note** The project is not open source.

@@ -24,4 +24,4 @@ author_profile: true
 
 ## Open to other ideas?
 
-YES. Feel free to contact me if you have an interesting project.
+**YES.** Feel free to contact me if you have an interesting project.
