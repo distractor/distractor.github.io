@@ -13,6 +13,8 @@ author_profile: true
 
 {% if author.googlescholar %}
 You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a> or on <a href="{{author.researchgate}}">my Researchgate profile</a>.
+
+A complete list can also be found <a href="https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20240330_102259_52909.html">HERE</a>.
 {% endif %}
 
 {% for post in site.publications reversed %}

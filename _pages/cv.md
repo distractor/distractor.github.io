@@ -21,19 +21,25 @@ Work experience
     - Data acqusition for predictive models (C#).
     - Development of trading engine (C#).
     - Front end development of web apps (vue, .net).
+    - Microscale meteorological models (CALMET) and implementation to Python framework
+    - Development of software for construction and simulation or paragliders.
 
-- Mar 2019 -- Feb 2024 (expected): PhD student
+- Feb 2024 -- (present): Software developer
+    - [FIFTY2 Technology](https://www.fifty2.eu/)    
+    - Researching Smoothed Particle Hydrodynamics.
+    - Software development with c+, CUDA, cmake, python ...
+
+- Mar 2019 -- Mar 2024: Scientific researcher
     - "Jožef Stefan" Institute
     - Researching adaptivity in meshless methods.
     - Working on a library for PDE solving using meshless methods with concrete applications.
     - Parallel and distributed computing on GPUs with CUDA.
-    - Solving Poisson equation in multidimensional space.
+    - Solving PDEs in multidimensional space.
     - Study plastic deformation of an aluminium block when exposed to extreme temperatures with FreeFEM++ and meshless methods.
     - Moving boundary problem simulation - dendritic growth.
     - Dynamic Thermal Rating (DTR) of overhead power lines and uncertainty of DTR.
-    - Finalizing PhD research.
+    - Preparation and defence of doctoral dissertation.
     - Supervisor: [dr. Gregor Kosec](http://e6.ijs.si/~gkosec/)
-
 
 - Jul 2014 -- Dec 2017: Assistant to head of R&D
     - NOVA Vertriebsgesellschaft m.b.H.
@@ -54,9 +60,10 @@ Work experience
 
 Education
 ------
-- PhD (expected finish in Q1 2024)
+- PhD 
     - International Postgraduate School Jožef Stefan, Ljubljana, Slovenia
     - hp-adaptive strong-form mesh-free solution procedure
+    - Efficient methods for solving PDEs
 - M.Sc. in Mechanical engineering
     - Faculty of Mechanical Engineering, University of Ljubljana, Slovenia
     - thesis: _"Identification of dynamic systems using deep Gaussian Processes"_ [(pdf in slovenian)]({{site.baseurl}}/files/masters.pdf)
@@ -72,7 +79,7 @@ Awards and Scholarships
 
 Skills
 ------
-- Good knowledge in Python, C++, C#, FreePascal
+- Good knowledge in Python, C++, C#, FreePascal, cmake
 - Familiar with web technologies (postgresSQL, mySQL, typescript, HTML, .net, CSS, vue)
 - Familiar with parallel execution (openMP, CUDA)
 - Familiar with Windows and Linux and WSL

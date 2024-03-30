@@ -1,0 +1,13 @@
+@article{JANCIC2024112973,
+title = {Meshless interface tracking for the simulation of dendrite envelope growth},
+journal = {Journal of Computational Physics},
+volume = {507},
+pages = {112973},
+year = {2024},
+issn = {0021-9991},
+doi = {https://doi.org/10.1016/j.jcp.2024.112973},
+url = {https://www.sciencedirect.com/science/article/pii/S0021999124002225},
+author = {Mitja Jančič and Miha Založnik and Gregor Kosec},
+keywords = {GEM, Meshless, Moving boundary, Dendrite, RBF-FD, Solidification},
+abstract = {The growth of dendritic grains during solidification is often modelled using the Grain Envelope Model (GEM), in which the envelope of the dendrite is an interface tracked by the Phase Field Interface Capturing (PFIC) method. In the PFIC method, an phase-field equation is solved on a fixed mesh to track the position of the envelope. While being versatile and robust, PFIC introduces certain numerical artefacts. In this work, we present an alternative approach for the solution of the GEM that employs a Meshless (sharp) Interface Tracking (MIT) formulation, which uses direct, artefact-free interface tracking. In the MIT, the envelope (interface) is defined as a moving domain boundary and the interface-tracking nodes are boundary nodes for the diffusion problem solved in the domain. To increase the accuracy of the method for the diffusion-controlled moving-boundary problem, an h-adaptive spatial discretization is used, thus, the node spacing is refined in the vicinity of the envelope. MIT combines a parametric surface reconstruction, a mesh-free discretization of the parametric surfaces and the space enclosed by them, and a high-order approximation of the partial differential operators and of the solute concentration field using radial basis functions augmented with monomials. The proposed method is demonstrated on a two-dimensional h-adaptive solution of the diffusive growth of dendrite and evaluated by comparing the results to the PFIC approach. It is shown that MIT can reproduce the results calculated with PFIC, that it is convergent and that it can capture more details in the envelope shape than PFIC with a similar spatial discretization.}
+}

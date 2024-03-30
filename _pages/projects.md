@@ -23,6 +23,21 @@ Development of local web-based trading tool used to simulate different trading s
 **Note** The project is not open source.
 {: .notice}
 
+## Downscaling weather data to complex terrain
+
+Study of existing models used to downscale mesoscale meteorological models to complex terrain via diagnostic or prognostic models. Particularly interested in temperature, wind field and solar irradiation.
+
+As a final result, CALMET was deployed and its performance thoroughly analysed within python framework.
+
+<figure>
+  <img src='/images/downscaling.png' width="100%">
+  <figcaption>Figure: Example errors of downscaled fields. Black line for the mesoscopic model ALADIN and blue line for the implemented CALMET.</figcaption>
+</figure>
+
+**Note** The project is not open source.
+{: .notice}
+
+
 # Ongoing projects
 
 ## [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
@@ -37,27 +52,13 @@ Development of local web-based trading tool used to simulate different trading s
   <figcaption>Figure: Natural convection from a heated cylinder.</figcaption>
 </figure>
 
-## WingDesigner
+## WingDesigner++
 
 Software development for construction and simulation of paragliders. From a selection of input parameters from a dedicated advanced Excel file to 3D models, production-ready DXF files and simulation related files (such as automatic construction of FEM mesh).
 
 <figure>
   <img src='/images/mesh.png' width="100%">
   <figcaption>Figure: Example FEM mesh for a paraglider.</figcaption>
-</figure>
-
-**Note** The project is not open source.
-{: .notice}
-
-## Downscaling weather data to complex terrain
-
-Study of existing models used to downscale mesoscale meteorological models to complex terrain via diagnostic or prognostic models. Particularly interested in temperature, wind field and solar irradiation.
-
-As a final result, CALMET was deployed and its performance thoroughly analysed.
-
-<figure>
-  <img src='/images/downscaling.png' width="100%">
-  <figcaption>Figure: Example downscaled wind field. Demonstrative figure taken from: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/we.2169">here</a>.</figcaption>
 </figure>
 
 **Note** The project is not open source.
