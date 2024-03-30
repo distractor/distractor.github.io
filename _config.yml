@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mitja Jančič"
 title_separator          : "-"
 name                     : &name "Mitja Jančič"
-description              : &description "Researcher at Parallel and Distributed systems Laboratory, Jožef Stefan Institute"
+description              : &description "Software developer and researcher"
 url                      : "https://distractor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 #  url                      : "http://e6.ijs.si" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Mitja Jančič"
   avatar           : "profile.png"
-  bio              : "<b>Software developer</b> at <a href='https://www.fifty2.eu/' target='_blank'>FIFTY2 Technologies</a>.
+  bio              : "<b>Researcher</b> and <b>Software developer</b> at <a href='https://www.fifty2.eu/' target='_blank'>FIFTY2 Technologies</a>."
+  location         : "Tolmin, Slovenia"
   employer         :
   googlescholar    : "https://scholar.google.si/citations?user=pl8xsvMAAAAJ"
   email            : "mitjajancic@gmail.com"
