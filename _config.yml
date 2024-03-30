@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Mitja Jančič"
   avatar           : "profile.png"
-  bio              : "<b>Researcher</b> at <a href='http://e6.ijs.si/ParallelAndDistributedSystems/' target='_blank'>Parallel and Distributed Systems laboratory</a>, <a href='http://e6.ijs.si' target='_blank'>department E6</a>, <a href='http://ijs.si/' target='_blank'>&raquo;Jožef Stefan&laquo; Institute</a>"
-  location         : "Ljubljana, Slovenia"
+  bio              : "<b>Software developer</b> at <a href='https://www.fifty2.eu/' target='_blank'>FIFTY2 Technologies</a>.
   employer         :
   googlescholar    : "https://scholar.google.si/citations?user=pl8xsvMAAAAJ"
-  email            : "mitja.jancic@ijs.si"
-  email2           : "mitjajancic@gmail.com"
+  email            : "mitjajancic@gmail.com"
+  email2           : 
   researchgate     :  "https://www.researchgate.net/profile/Mitja-Jancic"
   uri              :
   bitbucket        : # "jureslak"

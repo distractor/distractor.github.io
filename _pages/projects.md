@@ -37,9 +37,6 @@ As a final result, CALMET was deployed and its performance thoroughly analysed w
 **Note** The project is not open source.
 {: .notice}
 
-
-# Ongoing projects
-
 ## [Medusa: coordinate free meshless method implementation](http://e6.ijs.si/medusa/)
 
 - C++ library for solving PDEs with an intuitive syntax.
@@ -51,6 +48,9 @@ As a final result, CALMET was deployed and its performance thoroughly analysed w
   <img src='/images/natural_convection.png' width="100%">
   <figcaption>Figure: Natural convection from a heated cylinder.</figcaption>
 </figure>
+
+
+# Ongoing projects
 
 ## WingDesigner++
 
